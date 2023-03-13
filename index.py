@@ -135,8 +135,6 @@ async def on_ready():
         Logged in as {client.user} (ID: {client.user.id})
     """), end="\n\n")
 
-
-
 ############################
 ###     FUN SECTION      ###
 ############################
