@@ -118,7 +118,6 @@ class discordbotdev(Client):
         print("Think it's synced")
         print(len(synced))
 
-
 # Variable to store the bot class and interact with it
 # We then do not need any intents to listen to events
 client = discordbotdev(intents=Intents())
