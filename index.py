@@ -118,9 +118,6 @@ class discordbotdev(Client):
         print("Think it's synced")
         print(len(synced))
 
-#z = time.localtime()
-#current=time.strftime("%H:%M:%S",z)
-
 
 # Variable to store the bot class and interact with it
 # We then do not need any intents to listen to events
